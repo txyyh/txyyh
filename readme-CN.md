@@ -43,6 +43,8 @@
 
 [Twitter](https://twitter.com/realTxyyh)
 
+[Reddit](https://www.reddit.com/user/txyyh)
+
 [酷安](https://www.coolapk.com/u/2436284)
 
 [Bangumi(含全部追番记录)](https://bgm.tv/user/txyyh)
