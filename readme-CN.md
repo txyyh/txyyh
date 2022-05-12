@@ -22,8 +22,9 @@
 1. subconverter配合clash（clash本身高级玩法并不太熟）
 2. 形形色色第三方应用（这个大家应该都熟）
 3. 几类资源（pj应用，高清动画等我也说不清了... ）
-4. 玩机分子（目前手持Redmi Note 9 Pro (gauguin) 湖光秋色，Samsung Galaxy Note 3 Verizon (hltetmo) 粉色款 ）
-5. Git （但不会编程是不是离谱... ）
+4. ArchLinux+Windows11 使用者，服务器使用 Debian
+5. 玩机分子（目前手持Redmi Note 9 Pro [gauguin]湖光秋色，Samsung Galaxy Note 3 Verizon (hltetmo) 粉色款 ）
+6. Git （但不会编程是不是离谱... ）
 
 ## 大脑独特
 
